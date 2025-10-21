@@ -6,13 +6,14 @@
     <meta name="Tercera 1" content="Proyecto Universitario"> 
     <title>Tercera 1</title>
     <link rel="stylesheet" href="./css/main.css">
+    
 
 
 </head>
 <menu>
     <div class="menu-izquierda">
         <a href="./">
-        <img src="./img/logo2.png" alt="" height="80" class="logo"> "aqui va el logo"
+        <img src="Her1.png" alt="" height="100" class="logo"> 
         </a>
 
 </div>
@@ -20,11 +21,14 @@
     <div class="menu-derecha">
         <div class="menu-container">
             <div class="menu-normal">
-                <a href="./">Inicio</a>
-                <a href="nosotros.php">Nosotros</a>
-                <a href="productos.php">Productos</a>
-                <a href="contacto.php">Contacto</a>
+                <a href="Inicio.php">Inicio</a>
+                <a href="Nosotros.php">Nosotros</a>
+                <a href="Repuestos.php">Repuestos</a>
+                <a href="Accesorios.php">Accesorios</a>
+                <a href="Motos.php">Motos</a>
+                <a href="Contacto.php">Contacto</a>
 
 
     </div>
+
 </menu> 
