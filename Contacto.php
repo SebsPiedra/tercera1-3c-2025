@@ -2,5 +2,7 @@
 
 
 
+
+
 <?php require_once "./vistas/vista_inferior.php" ?>
-Contacto
+
